@@ -3,4 +3,13 @@ Structure charts represent a system by showing the separate subroutines that mak
 A data dictionary provides a comprehensive description of each variable stored or referred to in a system. This commonly includes variable name, data type, format, size in bytes, number of characters to display the item including number of decimal places (if applicable).
 Class diagrams provide a visual representation of systems that are implemented using the object-oriented paradigm. They model classes, their attributes and methods, and the relationships between classes.
 A storyboard shows the various interfaces (screens) as well as the links between them.
-A Gantt chart displays each of the component tasks in a proposed system development on an estimated timeline. Tasks should be named with self-explanatory titles. The estimated time required for each task and its dependent tasks should be clearly shown. The time scale should be clearly indicated with dates and important milestones in the project clearly marked.
+A Gantt chart displays each of the component tasks in a proposed system development on an estimated timeline. 
+Regression algorithms predict values from datasets.
+DevOps integrates development and operations for efficiency.
+RPA handles repetitive tasks using software bots.
+Secure architecture embeds protection from the design phase.
+Encryption protects data in storage and transmission.
+Authentication verifies user identities.
+Vulnerabilities like XSS and CSRF must be tested.
+Proper session management prevents hijacking.
+Privacy by design ensures data is respected and safeguarded.
